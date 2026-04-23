@@ -12,11 +12,15 @@ The PCB was designed using KiCAD and the case for it was designed in Fusion360. 
 
 This is the schematic which was designed in KiCad:
 
-<img width="4000" height="2800" alt="image" src="https://github.com/user-attachments/assets/d7df352c-cefa-491f-9a06-e66dd6d6d690" />
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/38285061-4bbb-4ab2-9dcb-54adde9e525e" />
+
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/69f23db0-47b6-4d60-bd07-614da082848f" />
+
 
 And this is the actual PCB which was also designed in KiCad:
 
-<img width="1515" height="491" alt="image" src="https://github.com/user-attachments/assets/b041332f-ff4b-4c8a-8160-4e8f9410405c" />
+<img width="741" height="326" alt="image" src="https://github.com/user-attachments/assets/d02c9b6d-c9d5-4898-ad70-ddce199698c5" />
+
 
 # BOM
 These will be the parts that I will use to build and assemble my split keyboard along with the links to get them:
