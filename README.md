@@ -1,6 +1,8 @@
 # EasySplit
 A hot-swappable split keyboard with a traditional Layout! It will feature MX Switches, a nice!nano (clone) as the main MCU for both sides, and a battery so that it can be used on the go!
 
+<img width="1024" height="576" alt="WhatsApp Image 2026-06-29 at 4 52 29 PM" src="https://github.com/user-attachments/assets/490bce3e-2a98-45c3-9047-20e2bcc6760f" />
+
 <img width="7022" height="3871" alt="image" src="https://github.com/user-attachments/assets/cd9c64a7-4b01-4ca0-9278-0500d2b47ace" />
 
 # Why Did I Make This??
